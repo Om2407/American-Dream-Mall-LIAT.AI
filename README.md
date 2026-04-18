@@ -185,8 +185,8 @@ Both features work fully offline via hardcoded fallback responses if no API key 
 
 Built for the **liat.ai** screening assignment.
 
-- **Live URL:** _[paste here]_
-- **GitHub:** _[paste here]_
+- **Live URL:** https://american-dream-mall-liat-ai.vercel.app/
+- **GitHub:** https://github.com/Om2407/American-Dream-Mall-LIAT.AI
 - **Email:** medi@liat.ai
 
 ---
