@@ -6,7 +6,7 @@ A fully interactive, browser-based sales tool for **American Dream Mall** (East 
 
 ## 🚀 Live Demo
 
-> Deploy to Vercel/Netlify and paste link here
+Live Url- https://american-dream-mall-liat-ai.vercel.app/
 
 ---
 
@@ -194,3 +194,5 @@ Built for the **liat.ai** screening assignment.
 ## 📄 License
 
 Private — built for interview/assessment purposes only.
+
+ Made with ❤️ by **Om Gupta** for **LIAT.AI**
