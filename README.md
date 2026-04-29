@@ -3,6 +3,8 @@
 A fully interactive, browser-based sales tool for **American Dream Mall** (East Rutherford, NJ) — the Western Hemisphere's largest entertainment and retail destination. Built as a cinematic pitch deck for prospective retail tenants, sponsors, and event partners.
 
 ---
+<img width="1918" height="866" alt="Screenshot 2026-04-29 065114" src="https://github.com/user-attachments/assets/a1626463-75c6-462a-be1c-16903dc092b1" />
+
 
 ## 🚀 Live Demo
 
